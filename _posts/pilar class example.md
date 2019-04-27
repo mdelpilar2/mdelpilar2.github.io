@@ -1,13 +1,11 @@
 ---
 layout: post # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
-title:  "hello  hello hello"
+title:  "Example
 subtitle: "Start here"
 date:   2019-04-17 23:45:13 -0400
-background: '/img/-palace-.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
+author: "Juan Cobo" # you can get rid of this entire line in your own blog posts, and the page will display the name of the site's owner, taken from the _config.yml file.
+background: '/img/posts/01.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
-<img src="/img/-palace-.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
-
-<img src="/img/-palace-.jpg" style="display: block; width: 100px; margin-right: auto; margin-left: auto;" />
 
 The first thing you should do is to open this entire project folder in AtoM, and to open the file called README.md. After you follow those instructions, return here both in your browser and in AtoM (you can find the file in the `_posts` folder).
 
@@ -34,12 +32,12 @@ __This will also be bold__
 # Block quotations
 
 Below is a block quotation:
-> Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.
+> "Past is never dead. It's not even past" W. Faulkner.
 
 # Lists
 ## Unordered:
-* Item 1
 * Item 2
+* Item 3
  * Item 2a
  * Item 2b
 
