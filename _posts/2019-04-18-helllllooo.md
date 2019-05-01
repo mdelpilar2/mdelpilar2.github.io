@@ -1,13 +1,13 @@
 ---
 layout: post # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
-title:  "pilar 123"
-subtitle: "Start here"
+title:  "Pilar"
+subtitle: "General information"
 date:   2019-04-17 23:45:13 -0400
-author: "Juan Cobo" # you can get rid of this entire line in your own blog posts, and the page will display the name of the site's owner, taken from the _config.yml file.
-background: '/img/posts/01.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
+author: "Pilar Ramirez" # you can get rid of this entire line in your own blog posts, and the page will display the name of the site's owner, taken from the _config.yml file.
+background: '/img/posts/iguana.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
 
-The first thing you should do is to open this entire project folder in AtoM, and to open the file called README.md. After you follow those instructions, return here both in your browser and in AtoM (you can find the file in the `_posts` folder).
+This is the first entry.
 
 ---
 
