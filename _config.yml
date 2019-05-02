@@ -1,4 +1,4 @@
-title:             "Who am I?"
+title:             "My personal website"
 email:             mariadelpil@ucsb.edu
 description:
 author:            Pilar Ramirez Restrepo
@@ -22,3 +22,6 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+  <img src="/img/-palace-.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
+  
