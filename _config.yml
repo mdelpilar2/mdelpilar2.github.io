@@ -1,4 +1,4 @@
-title:             "My personal website"
+title:             "Pilar Ramirez Restrepo"
 email:             mariadelpil@ucsb.edu
 description:
 author:            Pilar Ramirez Restrepo
@@ -7,7 +7,7 @@ url:               "http://mdelpilar2.github.io" # or http://username.github.io/
 
 collections:
   pages:
-    output:
+    output: true
     permalink: /:name
 
 # Social Profiles
@@ -22,6 +22,3 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-  <img src="/img/-palace-.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
-  
